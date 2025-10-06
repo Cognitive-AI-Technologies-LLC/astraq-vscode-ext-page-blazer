@@ -7,7 +7,8 @@ TestDock is an AI-powered testing extension that helps you instantly record, rep
 2. Run the Flow – Replay tests on your app. Screenshots are taken at each step.
 3. AI Validates – OpenAI checks each screen for missing buttons, broken layouts, error messages, etc.
 4. Review Results – View passed/failed steps with visual proof and smart AI suggestions.
-5. Improve Quickly – Edit, re-run, or clone flows directly from your IDE.
+5. Fix Prompt - Developer can use the generated prompts to fix the issues by providing code context to the LLMs.  
+6. Improve Quickly – Edit, re-run, or clone flows directly from your IDE.
 
 ##  Record a Flow - 
 ![Demo](https://raw.githubusercontent.com/Cognitive-AI-Technologies-LLC/astraq-vscode-ext-page-blazer/main/record-step.gif)
